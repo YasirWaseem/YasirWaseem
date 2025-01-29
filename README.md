@@ -17,7 +17,7 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=YasirWaseem&theme=dark" />
 </div
 
-<h2>⚡ Most Used Language</h2>
+<h2>⚡ Most Used Languages</h2>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirWaseem&theme=dark" />
-</div
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirWaseem&theme=dark&langs_count=10" />
+</div>
