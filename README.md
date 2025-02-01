@@ -21,3 +21,5 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirWaseem&theme=dark&langs_count=10" />
 </div>
+
+[![An image of @yasirwaseem's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yasirwaseem)](https://holopin.io/@yasirwaseem)
